@@ -6,8 +6,6 @@
 - 天气：从 [Open Weather](https://openweathermap.org/) 获取API_KEY和City_ID
 - 背景：设置参考[IOS14 widget 个性化设置 · 语雀](https://www.yuque.com/docs/share/647a9f3d-c39a-4613-8f32-d05bee5ba90f)
 
-- - - -
-
 ### Credits to:
 - [Greetings/etc. script](https://gist.github.com/flasozzi/3e7f05ff3f1de342f16b2b31a8923651) 
 - [Calendar script](https://pastebin.com/wb7FsyhX) 
